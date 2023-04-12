@@ -1,0 +1,44 @@
+{
+  "roles": [
+    { "id": 1, "name": "管理员" },
+    { "id": 2, "name": "普通用户" },
+    { "id": 3, "name": "顶级管理" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "范德萨",
+      "age": 30,
+      "mobile": "18330049603",
+      "email": "2320545031@qq.com",
+      "roleId":1
+    },
+    {
+      "id": 2,
+      "name": "浮点数",
+      "age": 18,
+      "mobile": "18330049603",
+      "email": "2320545031@qq.com",
+      "roleId":2
+    },
+    {
+      "id": 3,
+      "name": "阿斯顿",
+      "age": 22,
+      "mobile": "18330049603",
+      "email": "2320545031@qq.com",
+      "roleId":1
+    },
+    {
+      "name": "发大水范德萨",
+      "age": "26",
+      "mobile": "15832023427",
+      "email": "shagnyih@163.com",
+      "id": 4,
+      "roleId":3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
