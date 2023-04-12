@@ -1,9 +1,0 @@
-{
-  "host":"192.168.1.7",
-  "port": 3005,
-  "watch": true,
-  "static": "./public", 
-  "read-only": false,
-  "no-cors": false,
-  "no-gzip": false
-}
